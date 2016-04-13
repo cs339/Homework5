@@ -1,0 +1,4 @@
+I am observer 1 and I just noticed that the state of the subject changed to 3
+I am observer 2 and I just noticed that the state of the subject changed to 3
+I am observer 1 and I just noticed that the state of the subject changed to 8
+I am observer 2 and I just noticed that the state of the subject changed to 8
